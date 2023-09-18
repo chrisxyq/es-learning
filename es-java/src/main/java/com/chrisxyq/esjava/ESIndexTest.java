@@ -1,4 +1,4 @@
-package com.chrisxyq.es;
+package com.chrisxyq.esjava;
 
 import org.apache.http.HttpHost;
 import org.elasticsearch.action.admin.indices.delete.DeleteIndexRequest;

@@ -1,4 +1,4 @@
-package com.chrisxyq.es;
+package com.chrisxyq.esjava;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
